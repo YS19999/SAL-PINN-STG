@@ -1,2 +1,2 @@
-# Robust PINNs for STG
-Robust Physics-Informed Neural Networks for Spatio-Temporal Generalization
+# SAL PINNs for STG
+Robust Spatio-Temporal Generalization of Physics-Informed Neural Networks
